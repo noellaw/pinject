@@ -356,4 +356,4 @@ all_print_methods = [value for name, value in all_print_method_pairs]
 for print_method in all_print_methods:
     print '#' * 78
     print_method()
-print '#' * 78
+
